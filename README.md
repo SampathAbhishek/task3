@@ -3,7 +3,7 @@
 This is a simple calculator that performs addition and subtraction in the form of functions.
 A simple sum() and sub() function are added inside calculate() function.
 When we run the calculate() function the user gets choice to enter any two operands (numbers) and operator either '+' or '-'.
-On the basis of this we run either sum() or sub() function and coreesponding result is consoled on output.
+On the basis of this we run either sum() or sub() function and corresponding result is consoled on output.
 
 The unit Testing for the same is done using JEST.
 
